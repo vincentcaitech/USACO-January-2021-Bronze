@@ -12,6 +12,7 @@ Below are summary explanations for each problem. See each problem's code for a d
 
 For every letter in the desired string, in order, find it in the alphabet. For every letter after the first, pick up after the previous, and if the letter is not found, increment total count by 1 and start from beginning of the alphabet. Print out the total count;
   
+  
 
 ### `Problem 2`
 
@@ -26,6 +27,7 @@ Start out with every photo in its own group. Count the number of even and odd gr
 **If there are too many evens,** repeat the following proccess: take two even groups and put them together into one group. Repeat until reach goal.
 
 NOTE: These are both optional solutions because you decrease the total number of groups by the minimum amount, 1, while bringing you closer to the goal
+  
   
 
 ### `Problem 3`
