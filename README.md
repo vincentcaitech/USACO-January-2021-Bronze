@@ -2,7 +2,7 @@
 
 ## About
 
-All three USACO Bronze problems from the January 2021 contest, in Java. All are complete solutions that passed all the test cases.
+All three USACO Bronze problems from the January 2021 contest, written in Java. All are complete solutions that passed all the test cases.
 
 ## Summary Explanations
 
