@@ -4,15 +4,15 @@
 
 All three USACO Bronze problems from the January 2021 contest, in Java. All are complete solutions that passed all the test cases.
 
-## Summary Explanations
+## `Summary Explanations`
 
 Below are summary explanations for each problem. See each problem's code for a detailed breakdown of each step in the comments.
 
-### Problem 1
+## Problem 1
 
 For every letter in the desired string, in order, find it in the alphabet. For every letter after the first, pick up after the previous, and if the letter is not found, increment total count by 1 and start from beginning of the alphabet. Print out the total count;
 
-### Problem 2
+## Problem 2
 
 Start out with every photo in its own group. Count the number of even and odd groups (aka the number of even and odd numbers).
 
