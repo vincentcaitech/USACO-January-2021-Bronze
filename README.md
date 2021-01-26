@@ -26,6 +26,6 @@ Start out with every photo in its own group. Count the number of even and odd gr
 
 NOTE: These are both optional solutions because you decrease the total number of groups by the minimum amount, 1, while bringing you closer to the goal
 
-## Problem 3:
+### `Problem 3:`
 
 Sort all the stalls by height, increasing. Then for each stall, starting from the shortest, find the number of cows that can possibly fit into that stall, that are not already used in a previously checked stall (fore each stall you check, that is one less cow you can use for all future stalls you check, which will either be same height or taller). Multiply the number of possible cows for each stall to get an answer.
